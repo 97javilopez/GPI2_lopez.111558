@@ -1,0 +1,69 @@
+    1  29/01/20 11:47:40 exit
+    2  12/02/20 14:57:17 cd ../..
+    3  12/02/20 14:57:18 ls
+    4  12/02/20 14:57:42 history
+    5  12/02/20 14:58:47 cd android-studio/
+    6  12/02/20 14:58:55 ls
+    7  12/02/20 14:59:23 nano build.txt 
+    8  12/02/20 14:59:51 cd ..
+    9  12/02/20 15:00:52 cd alumno/
+   10  12/02/20 15:00:57 cd AndroidStudioProjects/
+   11  12/02/20 15:01:02 cd PruebaAndroid/
+   12  12/02/20 15:01:40 ./gradlew tasks
+   13  12/02/20 15:03:11 ./gradlew tak compileDebugAndroidTestSources
+   14  12/02/20 15:03:23 ./gradlew task compileDebugAndroidTestSources
+   15  12/02/20 15:04:18 ./compileDebugSources
+   16  12/02/20 15:04:35 ./gradlew compileDebugSources
+   17  12/02/20 15:05:04 ./gradlew compileReleaseSources
+   18  12/02/20 15:06:23 cd ../alumno/AndroidStudioProjects/PruebaAndroid/
+   19  12/02/20 15:06:24 ls
+   20  12/02/20 15:07:03 ./gradlew tasks compileDebugAndroidTestSources
+   21  12/02/20 15:08:24 ./gradlew task compileDebugAndroidTestSources
+   22  12/02/20 15:08:41 ./gradlew task compileDebugSources
+   23  12/02/20 15:08:53 ./gradlew task compileDebugUnitTestSources
+   24  12/02/20 15:10:09 ./gradlew task compileReleaseSources
+   25  12/02/20 15:10:30 ./gradlew task compileReleaseUnitTestSources
+   26  12/02/20 15:11:28 cd ../../Escritorio/
+   27  12/02/20 15:11:48 history compilarActividadAndroid.txt
+   28  12/02/20 15:12:00 history > compilarActividadAndroid.txt
+   29  12/02/20 14:15:29 cd Escritorio/
+   30  12/02/20 14:15:53 ls
+   31  12/02/20 14:16:29 tar -zxvf arduino-1.8.11.-linux4.tar.xz
+   32  12/02/20 14:16:45 tar -Jxvf arduino-1.8.11-linux64.tar.xz 
+   33  12/02/20 14:17:57 cd arduino-1.8.11/
+   34  12/02/20 14:18:12 ./install.sh 
+   35  12/02/20 14:22:29 ls
+   36  12/02/20 14:22:36 cd ..
+   37  12/02/20 14:22:37 ls
+   38  12/02/20 14:22:46 tar -xf android-studio-ide-191.6010548-linux.tar.gz 
+   39  12/02/20 14:23:18 ls
+   40  12/02/20 14:23:23 cd android-studio/
+   41  12/02/20 14:23:44 cd bin/
+   42  12/02/20 14:23:48 ./studio.sh 
+   43  13/02/20 09:26:17 sudo add-apt-repository ppa:git-core/ppa
+   44  13/02/20 09:26:41 sudo apt-get update && sudo apt-get upgrade
+   45  13/02/20 09:26:52 sudo apt-get install git arduino
+   46  13/02/20 09:27:09 brew tap osx-cross/avr
+   47  13/02/20 09:27:49 brew install avr-gcc
+   48  13/02/20 09:28:07 brew install avrdude
+   49  13/02/20 09:29:16 avr-gcc -v
+   50  13/02/20 09:29:23 avrdude -v
+   51  13/02/20 09:29:33 sudo apt-get install gcc-avr binutils avr-libc avrdude
+   52  13/02/20 09:30:58 cd Escritorio/
+   53  13/02/20 09:31:18 git clone https://github.com/ladislas/Bare-Arduino-Project Blink-JavierLopez/
+   54  13/02/20 09:31:46 git clone https://github.com/ladislas/Bare-Arduino-Project Arduino-lopez111558
+   55  13/02/20 09:32:06 cd Arduino-lopez111558/
+   56  13/02/20 09:32:18 git submodule update --init --recursive
+   57  13/02/20 09:37:34 git remote set-url origin https://github.com/97javilopez/Arduino-lopez111558
+   58  13/02/20 09:37:56 git push --set-upstream origin master
+   59  13/02/20 09:41:40 brew install python python@2
+   60  13/02/20 09:42:59 pip install pyserial & pip2 install pyserial
+   61  13/02/20 09:43:15 cd src/FooProject/
+   62  13/02/20 09:43:32 cp ../../Makefile-Linux.mk ./Makefile
+   63  13/02/20 09:44:42 make
+   64  13/02/20 09:46:50 make upload
+   65  13/02/20 09:47:39 make
+   66  13/02/20 09:49:29 history > compilarProyectoArduino.txt
+   67  13/02/20 09:49:49 rm compilarProyectoArduino.txt 
+   68  13/02/20 09:49:57 cd ../../..
+   69  13/02/20 09:50:05 history > compilarProyectoArduino.txt
