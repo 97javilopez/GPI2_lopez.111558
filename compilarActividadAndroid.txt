@@ -1,0 +1,28 @@
+    1  29/01/20 11:47:40 exit
+    2  12/02/20 14:57:17 cd ../..
+    3  12/02/20 14:57:18 ls
+    4  12/02/20 14:57:42 history
+    5  12/02/20 14:58:47 cd android-studio/
+    6  12/02/20 14:58:55 ls
+    7  12/02/20 14:59:23 nano build.txt 
+    8  12/02/20 14:59:51 cd ..
+    9  12/02/20 15:00:52 cd alumno/
+   10  12/02/20 15:00:57 cd AndroidStudioProjects/
+   11  12/02/20 15:01:02 cd PruebaAndroid/
+   12  12/02/20 15:01:40 ./gradlew tasks
+   13  12/02/20 15:03:11 ./gradlew tak compileDebugAndroidTestSources
+   14  12/02/20 15:03:23 ./gradlew task compileDebugAndroidTestSources
+   15  12/02/20 15:04:18 ./compileDebugSources
+   16  12/02/20 15:04:35 ./gradlew compileDebugSources
+   17  12/02/20 15:05:04 ./gradlew compileReleaseSources
+   18  12/02/20 15:06:23 cd ../alumno/AndroidStudioProjects/PruebaAndroid/
+   19  12/02/20 15:06:24 ls
+   20  12/02/20 15:07:03 ./gradlew tasks compileDebugAndroidTestSources
+   21  12/02/20 15:08:24 ./gradlew task compileDebugAndroidTestSources
+   22  12/02/20 15:08:41 ./gradlew task compileDebugSources
+   23  12/02/20 15:08:53 ./gradlew task compileDebugUnitTestSources
+   24  12/02/20 15:10:09 ./gradlew task compileReleaseSources
+   25  12/02/20 15:10:30 ./gradlew task compileReleaseUnitTestSources
+   26  12/02/20 15:11:28 cd ../../Escritorio/
+   27  12/02/20 15:11:48 history compilarActividadAndroid.txt
+   28  12/02/20 15:12:00 history > compilarActividadAndroid.txt

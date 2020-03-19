@@ -1,0 +1,176 @@
+    1  29/01/20 11:47:40 exit
+    2  12/02/20 14:57:17 cd ../..
+    3  12/02/20 14:57:18 ls
+    4  12/02/20 14:57:42 history
+    5  12/02/20 14:58:47 cd android-studio/
+    6  12/02/20 14:58:55 ls
+    7  12/02/20 14:59:23 nano build.txt 
+    8  12/02/20 14:59:51 cd ..
+    9  12/02/20 15:00:52 cd alumno/
+   10  12/02/20 15:00:57 cd AndroidStudioProjects/
+   11  12/02/20 15:01:02 cd PruebaAndroid/
+   12  12/02/20 15:01:40 ./gradlew tasks
+   13  12/02/20 15:03:11 ./gradlew tak compileDebugAndroidTestSources
+   14  12/02/20 15:03:23 ./gradlew task compileDebugAndroidTestSources
+   15  12/02/20 15:04:18 ./compileDebugSources
+   16  12/02/20 15:04:35 ./gradlew compileDebugSources
+   17  12/02/20 15:05:04 ./gradlew compileReleaseSources
+   18  12/02/20 15:06:23 cd ../alumno/AndroidStudioProjects/PruebaAndroid/
+   19  12/02/20 15:06:24 ls
+   20  12/02/20 15:07:03 ./gradlew tasks compileDebugAndroidTestSources
+   21  12/02/20 15:08:24 ./gradlew task compileDebugAndroidTestSources
+   22  12/02/20 15:08:41 ./gradlew task compileDebugSources
+   23  12/02/20 15:08:53 ./gradlew task compileDebugUnitTestSources
+   24  12/02/20 15:10:09 ./gradlew task compileReleaseSources
+   25  12/02/20 15:10:30 ./gradlew task compileReleaseUnitTestSources
+   26  12/02/20 15:11:28 cd ../../Escritorio/
+   27  12/02/20 15:11:48 history compilarActividadAndroid.txt
+   28  12/02/20 15:12:00 history > compilarActividadAndroid.txt
+   29  12/02/20 14:15:29 cd Escritorio/
+   30  12/02/20 14:15:53 ls
+   31  12/02/20 14:16:29 tar -zxvf arduino-1.8.11.-linux4.tar.xz
+   32  12/02/20 14:16:45 tar -Jxvf arduino-1.8.11-linux64.tar.xz 
+   33  12/02/20 14:17:57 cd arduino-1.8.11/
+   34  12/02/20 14:18:12 ./install.sh 
+   35  12/02/20 14:22:29 ls
+   36  12/02/20 14:22:36 cd ..
+   37  12/02/20 14:22:37 ls
+   38  12/02/20 14:22:46 tar -xf android-studio-ide-191.6010548-linux.tar.gz 
+   39  12/02/20 14:23:18 ls
+   40  12/02/20 14:23:23 cd android-studio/
+   41  12/02/20 14:23:44 cd bin/
+   42  12/02/20 14:23:48 ./studio.sh 
+   43  12/02/20 15:30:45 git clone https://github.com/ladislas/Bare-Arduino-Project
+   44  12/02/20 15:31:12 mv Bare-Arduino-Project/ Escritorio/
+   45  12/02/20 15:46:29 apt-get avr-gcc 8.3.0
+   46  12/02/20 15:46:34 sudo apt-get avr-gcc 8.3.0
+   47  12/02/20 15:46:52 avr-gcc
+   48  12/02/20 15:47:07 sudo apt install gcc-avr 8.3.0
+   49  12/02/20 15:48:38 sudo apt install c++17
+   50  12/02/20 15:49:30 sudo apt install make
+   51  13/02/20 09:05:23 sudo add-apt-repository ppa:git-core/ppa
+   52  13/02/20 09:06:00 sudo apt-get update && sudo apt-get upgrade
+   53  13/02/20 09:06:39 sudo apt-get install git arduino
+   54  13/02/20 09:08:01 brew tap osx-cross/avr
+   55  13/02/20 09:08:16 avr-gcc -v
+   56  13/02/20 09:08:25 avrdude -v
+   57  13/02/20 09:08:59 sudo apt-get install gcc-avr binutils avr-libc avrdude
+   58  13/02/20 09:10:07 cd Escritorio/Blink-JavierLopez/
+   59  13/02/20 09:10:20 git submodule update --init --recursive
+   60  13/02/20 09:10:43 cd ..
+   61  13/02/20 09:11:03 brew install python
+   62  13/02/20 09:11:20 brew install python python@1
+   63  13/02/20 09:11:23 brew install python python@2
+   64  13/02/20 09:11:29 sudo brew install python python@2
+   65  13/02/20 09:11:42 sudo apt install linuxbrew-wrapper
+   66  13/02/20 09:12:01 sudo brew install python python@2
+   67  13/02/20 09:12:10 brew install python python@2
+   68  13/02/20 09:12:43 pip install & pip2 install pyserial
+   69  13/02/20 09:12:53 sudo apt install python-pip
+   70  13/02/20 09:13:06 pip install & pip2 install pyserial
+   71  13/02/20 09:13:47 cd Bare-Arduino-Project/src/FooProject/
+   72  13/02/20 09:14:02 cp ../../Makefile-Linux.mk ./Makefile
+   73  13/02/20 09:14:07 ls
+   74  13/02/20 09:14:22 make
+   75  13/02/20 09:18:04 nano Makefile 
+   76  13/02/20 09:22:59 make
+   77  13/02/20 09:26:17 sudo add-apt-repository ppa:git-core/ppa
+   78  13/02/20 09:26:41 sudo apt-get update && sudo apt-get upgrade
+   79  13/02/20 09:26:52 sudo apt-get install git arduino
+   80  13/02/20 09:27:09 brew tap osx-cross/avr
+   81  13/02/20 09:27:49 brew install avr-gcc
+   82  13/02/20 09:28:07 brew install avrdude
+   83  13/02/20 09:29:16 avr-gcc -v
+   84  13/02/20 09:29:23 avrdude -v
+   85  13/02/20 09:29:33 sudo apt-get install gcc-avr binutils avr-libc avrdude
+   86  13/02/20 09:30:58 cd Escritorio/
+   87  13/02/20 09:31:18 git clone https://github.com/ladislas/Bare-Arduino-Project Blink-JavierLopez/
+   88  13/02/20 09:31:46 git clone https://github.com/ladislas/Bare-Arduino-Project Arduino-lopez111558
+   89  13/02/20 09:32:06 cd Arduino-lopez111558/
+   90  13/02/20 09:32:18 git submodule update --init --recursive
+   91  13/02/20 09:37:34 git remote set-url origin https://github.com/97javilopez/Arduino-lopez111558
+   92  13/02/20 09:37:56 git push --set-upstream origin master
+   93  13/02/20 09:41:40 brew install python python@2
+   94  13/02/20 09:42:59 pip install pyserial & pip2 install pyserial
+   95  13/02/20 09:43:15 cd src/FooProject/
+   96  13/02/20 09:43:32 cp ../../Makefile-Linux.mk ./Makefile
+   97  13/02/20 09:44:42 make
+   98  13/02/20 09:46:50 make upload
+   99  13/02/20 09:47:39 make
+  100  13/02/20 09:49:29 history > compilarProyectoArduino.txt
+  101  13/02/20 09:49:49 rm compilarProyectoArduino.txt 
+  102  13/02/20 09:49:57 cd ../../..
+  103  13/02/20 09:50:05 history > compilarProyectoArduino.txt
+  104  19/02/20 15:08:21 <?xml version="1.0"?>
+  105  19/02/20 15:08:21 <project name="Hello" default="compile">
+  106  19/02/20 15:08:21 </project>
+  107  19/02/20 15:08:42 <?xml version="1.0"?>
+  108  19/02/20 15:08:42 <project name="Hello" default="compile">
+  109  19/02/20 15:08:42 </project>
+  110  19/02/20 15:08:43 <?xml version="1.0"?>
+  111  19/02/20 15:08:43 <project name="Hello" default="compile">
+  112  19/02/20 15:08:43 </project>
+  113  22/02/20 15:20:41 cd Escritorio/
+  114  22/02/20 15:21:32 git clone https://github.com/97javilopez/GPI2_lopez.111558
+  115  22/02/20 15:26:42 git add .
+  116  22/02/20 15:26:48 cd GPI2_lopez.111558/
+  117  22/02/20 15:26:50 git add .
+  118  22/02/20 15:27:01 git commit -m "Entregables practica 2"
+  119  22/02/20 15:27:15 git config --global user.email "lopezjavier1b@yahoo.es"
+  120  22/02/20 15:27:26 git config --global user.name "Javier"
+  121  22/02/20 15:27:29 git commit -m "Entregables practica 2"
+  122  22/02/20 15:27:35 git push
+  123  22/02/20 15:36:36 cd Escritorio/
+  124  22/02/20 15:39:20 mkdir Repositorio Local
+  125  22/02/20 15:39:25 cd Repositorio/
+  126  22/02/20 15:39:53 cd ..
+  127  22/02/20 15:40:01 mkdir "Repositorio Local"
+  128  22/02/20 15:40:18 cd Repositorio\ Local/
+  129  22/02/20 15:40:27 git init
+  130  22/02/20 15:41:25 git add .
+  131  22/02/20 15:41:48 git commit -m "index.html añadido"
+  132  22/02/20 15:43:20 git branch req001
+  133  22/02/20 15:43:30 nano index.html 
+  134  22/02/20 15:44:24 git add .
+  135  22/02/20 15:44:37 git commit -m "index.html modificado"
+  136  22/02/20 15:45:05 git checkout req001 
+  137  22/02/20 15:45:15 nano index.html 
+  138  22/02/20 15:45:52 git add .
+  139  22/02/20 15:46:11 git commit -m "index.html modificado en rama req001"
+  140  22/02/20 16:10:39 clear
+  141  22/02/20 16:10:49 mkdir "Repositorio Local"
+  142  22/02/20 16:10:52 cd Repositorio\ Local/
+  143  22/02/20 16:10:58 git init
+  144  22/02/20 16:11:35 nano index.html
+  145  22/02/20 16:12:43 git branch req001
+  146  22/02/20 16:13:19 ls
+  147  22/02/20 16:13:24 ls -v
+  148  22/02/20 16:13:37 git branch
+  149  22/02/20 16:14:17 cd Escritorio/
+  150  22/02/20 16:14:23 mkdir "Repositorio Local"
+  151  22/02/20 16:14:26 cd Repositorio\ Local/
+  152  22/02/20 16:14:38 nano index.html
+  153  22/02/20 16:15:02 git add .
+  154  22/02/20 16:15:08 git init
+  155  22/02/20 16:15:11 git add .
+  156  22/02/20 16:15:23 git commit -m "index.html creado"
+  157  22/02/20 16:15:33 git branch req001
+  158  22/02/20 16:15:38 git checkout req001 
+  159  22/02/20 16:15:42 git branch
+  160  22/02/20 16:15:58 ls
+  161  22/02/20 16:16:04 nano index.html
+  162  22/02/20 16:16:36 git add .
+  163  22/02/20 16:16:52 git commit -m "index.html modificado en req001
+"
+  164  22/02/20 16:17:24 git checkout master
+  165  22/02/20 16:17:32 git branch hotfix
+  166  22/02/20 16:17:38 git checkout hotfix 
+  167  22/02/20 16:17:41 git branch 
+  168  22/02/20 16:17:50 nano index.html 
+  169  22/02/20 16:18:51 git merge master 
+  170  22/02/20 16:19:16 git checkout master
+  171  22/02/20 16:19:24 git merege hotfix
+  172  22/02/20 16:19:31 git merge hotfix 
+  173  22/02/20 16:19:35 nano index.html 
+  174  22/02/20 16:19:58 cd ..
+  175  22/02/20 16:20:12 history > comandosGit.txt

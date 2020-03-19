@@ -1,0 +1,105 @@
+  228  04/03/20 14:26:06 cd Escritorio/simple
+  229  04/03/20 14:27:26 mvn site
+  230  04/03/20 14:29:42 mvn verify
+  231  04/03/20 14:33:18 mvn simple
+  232  04/03/20 14:34:00 mvn site
+  233  04/03/20 14:59:12 mvn verify
+  234  04/03/20 14:59:46 mvn site
+  235  04/03/20 15:00:28 mvn surefire:test
+  236  04/03/20 15:04:40 mvn compile
+  237  04/03/20 15:04:54 mvn run
+  238  04/03/20 15:05:23 mvn test
+  239  04/03/20 15:09:53 mvn compile
+  240  04/03/20 15:10:27 mvn test
+  241  04/03/20 15:12:45 mvn compile
+  242  04/03/20 15:12:50 mvn test
+  243  04/03/20 15:14:01 mvn verify
+  244  04/03/20 15:15:38 mvn surefire:test
+  245  04/03/20 15:21:58 cd src/test/
+  246  04/03/20 15:21:58 ls
+  247  04/03/20 15:22:01 cd java/
+  248  04/03/20 15:22:02 ls
+  249  04/03/20 15:22:04 cd es/
+  250  04/03/20 15:22:05 ls
+  251  04/03/20 15:22:08 cd unavarra/
+  252  04/03/20 15:22:09 ls
+  253  04/03/20 15:22:11 cd gpi2/
+  254  04/03/20 15:22:12 ls
+  255  04/03/20 15:22:17 javac AppTest.java 
+  256  04/03/20 15:22:41 java AppTest
+  257  04/03/20 15:22:44 java AppTest.java
+  258  04/03/20 15:22:53 cd ../../...
+  259  04/03/20 15:22:56 cd ../../..
+  260  04/03/20 15:26:04 mvn test
+  261  04/03/20 15:28:08 mvn compile
+  262  04/03/20 15:28:16 mvn test
+  263  04/03/20 15:31:11 maven-cobertura-plugin
+  264  04/03/20 15:35:21 mvn verify
+  265  04/03/20 15:38:00 mvn site
+  266  04/03/20 15:40:06 mvn compile
+  267  04/03/20 15:40:13 mvn test
+  268  04/03/20 15:40:22 mvn site
+  269  04/03/20 16:17:50 ls
+  270  04/03/20 16:17:55 cd target/
+  271  04/03/20 16:18:05 mvn cobertura:cobertura
+  272  04/03/20 16:18:18 cd ..
+  273  04/03/20 16:18:20 mvn cobertura:cobertura
+  274  04/03/20 16:18:37 mvn
+  275  04/03/20 16:18:46 mvn verify
+  276  04/03/20 16:18:55 mvn site
+  277  04/03/20 16:19:17 mvn compile
+  278  04/03/20 16:19:23 mvn site
+  279  04/03/20 16:22:20 mvn cobertura:cobertura
+  280  04/03/20 16:22:51 mvn compile
+  281  04/03/20 16:24:12 mvn verify
+  282  04/03/20 16:24:25 mvn site
+  283  04/03/20 16:25:17 mvn compile
+  284  04/03/20 16:25:26 mvn verify
+  285  04/03/20 16:25:32 mvn site
+  286  04/03/20 16:30:03 cd ..
+  287  04/03/20 16:31:02 sudo git clone https://github.com/andresriancho/w3af/blob/master/scripts/xss_simple.w3af
+  288  04/03/20 16:33:20 ls
+  289  07/03/20 10:53:42 git clone https://github.com/andresriancho/w3af/blob/master/scripts/xss_simple.w3af
+  290  07/03/20 10:55:51 unzip w3af-master.zip 
+  291  07/03/20 10:56:28 cd w3af-master/
+  292  07/03/20 10:58:31 cd .
+  293  07/03/20 10:58:32 cd ..
+  294  07/03/20 10:58:38 git clone httpl://github.com/andresriancho/w3af_git w3af
+  295  07/03/20 10:59:17 git clone https://github.com/andresriancho/w3af.git w3af
+  296  07/03/20 10:59:55 cd ../../
+  297  07/03/20 10:59:59 cd ../../../
+  298  07/03/20 11:00:06 cd alumno/Escritorio/
+  299  07/03/20 11:00:11 git clone https://github.com/andresriancho/w3af.git w3af
+  300  07/03/20 11:00:31 cd w3af/
+  301  07/03/20 11:00:35 ls
+  302  07/03/20 11:00:46 cd w3af/
+  303  07/03/20 11:00:47 ls
+  304  07/03/20 11:01:03 cd ..
+  305  07/03/20 11:01:19 nano README.md 
+  306  07/03/20 11:01:44 cd scripts/
+  307  07/03/20 11:01:45 ls
+  308  07/03/20 11:01:55 nano xss_simple.w3af 
+  309  07/03/20 11:03:10 cd ..
+  310  07/03/20 11:03:47 ./w3af_console -xss_simple.w3af
+  311  07/03/20 11:04:21 npm install -g retire@2.0.3
+  312  07/03/20 11:04:29 sudo apt install npm
+  313  07/03/20 11:05:22 npm install -g retire@2.0.3
+  314  07/03/20 11:05:41 sudo npm install -g retire@2.0.3
+  315  07/03/20 11:06:24 npm update -g retire
+  316  07/03/20 11:06:32 ./w3af_console -xss_simple.w3af
+  317  07/03/20 11:07:03 cd ../../../../../
+  318  07/03/20 11:07:10 ls
+  319  07/03/20 11:07:18 ./tmp/w3af_dependency_install.sh 
+  320  07/03/20 11:09:19 ls
+  321  07/03/20 11:09:24 cd home/alumno/Escritorio/
+  322  07/03/20 11:09:37 ./w3af_console -xss_simple.w3af
+  323  07/03/20 11:09:40 cd w3af/
+  324  07/03/20 11:09:41 ./w3af_console -xss_simple.w3af
+  325  07/03/20 11:10:17 ls
+  326  07/03/20 11:10:25 ./w3af_console 
+  327  07/03/20 11:10:40 cd ../../../../../
+  328  07/03/20 11:10:54 sudo ./tmp/w3af_dependency_install.sh 
+  329  07/03/20 11:12:20 cd home/alumno/Escritorio/w3af/
+  330  07/03/20 11:12:27 ./w3af_console -xss_simple.w3af
+  331  07/03/20 11:19:44 cd ..
+  332  07/03/20 11:19:55 history > comandosTomCat.txt

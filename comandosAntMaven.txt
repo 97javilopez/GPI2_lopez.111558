@@ -1,0 +1,52 @@
+  104  19/02/20 14:07:32 ant
+  105  19/02/20 14:07:39 sudo apt install ant
+  106  19/02/20 14:08:03 ant
+  107  19/02/20 14:08:28 ant -v
+  108  19/02/20 14:08:52 sudo apt install maven
+  109  19/02/20 14:10:42 maven
+  110  19/02/20 14:15:08 sudo apt install maven
+  111  19/02/20 14:16:58 mvn -v
+  112  19/02/20 14:17:24 sudo apt-get install ant
+  113  19/02/20 14:17:29 sudo apt-get install jdk
+  114  19/02/20 14:25:05 mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+  115  19/02/20 14:26:44 cd ..
+  116  19/02/20 14:26:50 ls
+  117  19/02/20 14:26:55 cd alumno/Escritorio/
+  118  19/02/20 14:27:23 mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+  119  19/02/20 14:30:18 mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=simple -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+  120  19/02/20 14:31:01 mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=simple-webapp -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+  121  19/02/20 14:32:35 ls
+  122  19/02/20 14:55:37 cd simple
+  123  19/02/20 14:55:42 mvn compile
+  124  19/02/20 15:05:08 cd ..
+  125* 19/02/20 15:07:23 mvn archetype:generate -DgroupId=es.unavarra.gpi2.GPIA111558 
+  126  19/02/20 15:09:09 cd simple
+  127  19/02/20 15:09:12 mvn compile
+  128  19/02/20 15:17:18 ls
+  129  19/02/20 15:17:57 ant compile
+  130  19/02/20 15:25:06 mvn archetype:generate -DgroupId=es.unavarra.gpi -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+  131  19/02/20 15:25:43 mvn archetype:generate -DgroupId=es.unavarra.gpi -DartifactId=simple-webapp -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+  132  19/02/20 15:26:01 cd ..
+  133  19/02/20 15:26:05 mvn archetype:generate -DgroupId=es.unavarra.gpi -DartifactId=simple-webapp -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+  134  19/02/20 15:28:35 cd simple-webapp/
+  135  19/02/20 15:28:41 ant compile
+  136  19/02/20 15:29:19 mvn compile
+  137  19/02/20 15:29:25 ant compile
+  138  19/02/20 15:32:30 cd ..
+  139  19/02/20 15:32:36 cd ../
+  140  19/02/20 15:32:42 cd ../../../..
+  141  19/02/20 15:32:47 cd alumno/Escritorio/
+  142  19/02/20 15:33:09 mvn archetype:generate -DgroupId=es.unavarra.gpi2 -DartifactId=simple-webapp -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+  143  19/02/20 15:33:18 cd simple-webapp/
+  144  19/02/20 15:33:31 cd ..
+  145  19/02/20 15:33:33 cd simple
+  146  19/02/20 15:33:39 ant compile
+  147  19/02/20 15:33:45 cd ..
+  148  19/02/20 15:33:50 cd simple-webapp/
+  149  19/02/20 15:38:14 mvn compile
+  150  19/02/20 15:38:53 ant compile
+  151  19/02/20 15:39:34 history > comandosAntMaven.txt
+  152  19/02/20 15:39:39 rm comandosAntMaven.txt 
+  153  19/02/20 15:39:47 rm ../comandosAntMaven.txt 
+  154  19/02/20 15:39:54 cd ..
+  155  19/02/20 15:39:58 history > comandosAntMaven.txt
